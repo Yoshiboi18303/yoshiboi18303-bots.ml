@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body {
+    background: #131313
+}
+.website-main__header {
+    color: #00ff02
+}
+.paragraph-one {
+    color: #fff
+}
+.remi-header {
+    color: #c79895
+}
+.remi-description {
+    color: #c79895
+}
+.remi_sounds-header {
+    color: #6589d9
+}
+.remi_sounds-description {
+    color: #6589d9
+}
+.bot-links-header {
+    color: #138ed7
+}
+.bot-links-description {
+    color: #138ed7
+}
+.pfp {
+    height: 130px;
+    width: 130px;
+}
